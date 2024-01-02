@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Imadzakxy
--90%
+- 👋 Hi, I’m @Imadzakxy 90%
