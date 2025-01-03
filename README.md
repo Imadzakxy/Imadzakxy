@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 hi, i m Slimani Imad
 
 
