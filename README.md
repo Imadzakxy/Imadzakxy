@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm [Your Name], a Computer Science student at USTHB .<br>Passionate about technology and problem-solving, <br>I enjoy diving into algorithms, software development, and exploring new tech trends. 
+👋 Hi, I'm Imad, a Computer Science student at USTHB .<br>Passionate about technology and problem-solving, <br>I enjoy diving into algorithms, software development, and exploring new tech trends. 
 
 
 ## 🌐 Socials:
